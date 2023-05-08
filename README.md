@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href= "https://github.com/gulsen06">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/github.png"/>
   </a>
   <a href= "https://www.linkedin.com/in/gulsen06/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
