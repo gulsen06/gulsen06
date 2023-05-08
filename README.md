@@ -10,7 +10,7 @@
   <i>Take a look at my repositories and let's get in touch!</i>
 
 <p align="center">
-  <a href= "https://github.com/gulsen06/">
+  <a href= "https://github.com/gulsen06">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
   </a>
   <a href= "https://www.linkedin.com/in/gulsen06/">
