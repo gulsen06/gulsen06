@@ -18,7 +18,7 @@
   </a>
 
   <a href="mailto:galkan668@gmail.com">
-    <img src="https://icons8.com/icon/53388/mail.png"/>
+    <img src="https://img.icons8.com/material/mail"/>
   </a>
 
 </p>
