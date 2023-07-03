@@ -23,21 +23,25 @@
 <a href="https://www.linkedin.com/in/glsnlkn/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-### Stats Overview : :cyclone:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gulsen06S&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" />
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=gulsen06S&theme=dracula&no-bg=true&row=1"/>
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-
-### GitHub Highlights: :blossom:
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsen06S&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+<a href="https://github.com/gulsen06S/gulsen06S">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gulsen06S&theme=gruvbox&hide_border=true)](https://github.com/gulsen06S" alt="gulsen06S's GitHub Stats Graph"/>
 </a>
-<a href="">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=gulsen06S&theme=material-palenight"/>
+<br><br>
+<a href="https://github.com/gulsen06S/gulsen06S">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gulsen06S&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=gulsen06S%20V%27s%20Github%20Stats" alt="gulsen06S's GitHub Stats" />
 </a>
-
-### Github Activity: 🔥 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=gulsen06S&theme=dracula&color=B994E6&bg_color=2B2D3D" />
+<h3>Longest vs Current Streak </h3>
+<a href="https://github.com/gulsen06S/gulsen06S">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gulsen06S&theme=gruvbox" alt="gulsen06S's GitHub Streak Stats"/>
+</a>
+<br><br>
+<a href="https://github.com/gulsen06S/gulsen06S">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=gulsen06S&theme=gruvbox&hide_border=true&custom_title=Contribution%20Graph" alt="gulsen06S's GitHub Contributions Graph"/>
+</a>
+</div>
 
 
 
