@@ -11,22 +11,14 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-- 📫 How to reach me: 
+
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
 
-<p align="center">
-  <a href= "https://github.com/gulsen06">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/github.png"/>
-  </a>
-  <a href= "https://www.linkedin.com/in/gulsen06/">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
-  </a>
 
-  <a href="mailto:galkan668@gmail.com">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/mail.png"/>
-  </a>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/glsnlkn)
+[<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/gulsen06S) 
 
-</p>
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:galkan668@gmail.com)
 
 ---
