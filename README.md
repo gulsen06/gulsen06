@@ -13,9 +13,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 
-![Profil Ziyaretçi Sayısı](https://komarev.com/ghpvc/?username=gulsen06S)
+![Profil Ziyaretçi Sayısı](https://komarev.com/ghpvc/?username=gulsen06)
 
-  
+![GitHub Contributions Graph](https://activity-graph.herokuapp.com/graph?username=gulsen06&theme=gruvbox&hide_border=true&custom_title=Contribution%20Graph)
 
 
 
