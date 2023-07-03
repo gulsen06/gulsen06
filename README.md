@@ -23,6 +23,22 @@
 <a href="https://www.linkedin.com/in/glsnlkn/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
+### Stats Overview : :cyclone:
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gulsen06S&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=gulsen06S&theme=dracula&no-bg=true&row=1"/>
+
+
+### GitHub Highlights: :blossom:
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsen06S&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+</a>
+<a href="">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=gulsen06S&theme=material-palenight"/>
+</a>
+
+### Github Activity: 🔥 
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=gulsen06S&theme=dracula&color=B994E6&bg_color=2B2D3D" />
+
 
 
 
