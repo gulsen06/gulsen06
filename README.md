@@ -34,6 +34,17 @@
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=gulsen06S&theme=gruvbox&hide_border=true&custom_title=Contribution%20Graph" alt="gulsen06S's GitHub Contributions Graph"/>
 </a>
 </div>
+## Github stats:
+
+[![gulsen06S's GitHub Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gulsen06S&theme=gruvbox&hide_border=true)](https://github.com/gulsen06S)
+
+[![gulsen06S's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gulsen06S&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=gulsen06S%20V%27s%20Github%20Stats)](https://github.com/gulsen06S)
+
+### Longest vs Current Streak
+
+[![gulsen06S's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gulsen06S&theme=gruvbox)](https://github.com/gulsen06S)
+
+[![gulsen06S's GitHub Contributions Graph](https://activity-graph.herokuapp.com/graph?username=gulsen06S&theme=gruvbox&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/gulsen06S)
 
 
 
