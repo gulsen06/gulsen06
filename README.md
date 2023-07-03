@@ -15,7 +15,7 @@
 
 ![Profil Ziyaretçi Sayısı](https://komarev.com/ghpvc/?username=gulsen06)
 
-![GitHub Contributions Graph](https://activity-graph.herokuapp.com/graph?username=gulsen06&theme=gruvbox&hide_border=true&custom_title=Contribution%20Graph)
+
 
 
 
