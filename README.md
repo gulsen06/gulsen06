@@ -15,33 +15,18 @@
 
 
   
-  
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
-<p align="center">
-	<a href="mailto:galkan668@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/gulsen06S"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/glsnlkn/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
 
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+## Github stats:
 
-<a href="https://github.com/gulsen06S/gulsen06S">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gulsen06S&theme=gruvbox&hide_border=true)](https://github.com/gulsen06S" alt="gulsen06S's GitHub Stats Graph"/>
-</a>
-<br><br>
-<a href="https://github.com/gulsen06S/gulsen06S">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gulsen06S&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=gulsen06S%20V%27s%20Github%20Stats" alt="gulsen06S's GitHub Stats" />
-</a>
-<h3>Longest vs Current Streak </h3>
-<a href="https://github.com/gulsen06S/gulsen06S">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gulsen06S&theme=gruvbox" alt="gulsen06S's GitHub Streak Stats"/>
-</a>
-<br><br>
-<a href="https://github.com/gulsen06S/gulsen06S">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=gulsen06S&theme=gruvbox&hide_border=true&custom_title=Contribution%20Graph" alt="gulsen06S's GitHub Contributions Graph"/>
-</a>
-</div>
+[![gulsen06S's GitHub Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gulsen06S&theme=gruvbox&hide_border=true)](https://github.com/gulsen06S)
+
+[![gulsen06S's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gulsen06S&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=gulsen06S%20V%27s%20Github%20Stats)](https://github.com/gulsen06S)
+
+### Longest vs Current Streak
+
+[![gulsen06S's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gulsen06S&theme=gruvbox)](https://github.com/gulsen06S)
+
+[![gulsen06S's GitHub Contributions Graph](https://activity-graph.herokuapp.com/graph?username=gulsen06S&theme=gruvbox&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/gulsen06S)
 
 
 
